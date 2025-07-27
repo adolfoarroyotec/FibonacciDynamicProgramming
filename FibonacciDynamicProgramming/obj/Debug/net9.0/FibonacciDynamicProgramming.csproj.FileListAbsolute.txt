@@ -1,0 +1,14 @@
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/bin/Debug/net9.0/FibonacciDynamicProgramming
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/bin/Debug/net9.0/FibonacciDynamicProgramming.deps.json
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/bin/Debug/net9.0/FibonacciDynamicProgramming.runtimeconfig.json
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/bin/Debug/net9.0/FibonacciDynamicProgramming.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/bin/Debug/net9.0/FibonacciDynamicProgramming.pdb
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/obj/Debug/net9.0/FibonacciDynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/obj/Debug/net9.0/FibonacciDynamicProgramming.AssemblyInfoInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/obj/Debug/net9.0/FibonacciDynamicProgramming.AssemblyInfo.cs
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/obj/Debug/net9.0/FibonacciDynamicProgramming.csproj.CoreCompileInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/obj/Debug/net9.0/FibonacciDynamicProgramming.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/obj/Debug/net9.0/refint/FibonacciDynamicProgramming.dll
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/obj/Debug/net9.0/FibonacciDynamicProgramming.pdb
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/obj/Debug/net9.0/FibonacciDynamicProgramming.genruntimeconfig.cache
+/Users/adolfoarroyo/Documents/Tecmx/quinto semestre/algoritmos avanzados/src/FibonacciDynamicProgramming/FibonacciDynamicProgramming/obj/Debug/net9.0/ref/FibonacciDynamicProgramming.dll
